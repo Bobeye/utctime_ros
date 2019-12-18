@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="utctime_ros" name="utctime_node" type="utctime_node.py" output="screen">
+  </node>
+</launch>
